@@ -1,0 +1,25 @@
+.grid{
+    width: 400px;
+    height: 600px;
+    background-color: yellow;
+    background-image: url(images.jpg) ;
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.doodler{
+    width: 60px;
+    height: 85px;
+    background-color: red;
+    background-image: url(mario.jpg);
+    position: absolute;
+}
+
+.platform{
+    width: 85px;
+    height: 15px;
+    background-color: green;
+    position: absolute;
+}
